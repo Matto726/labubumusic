@@ -14,21 +14,21 @@ services:
 
     envVars:
       API_ID: 
-        value: 29448785
+        value: 35020744
       API_HASH: 
-        value: 599574f6aff0a09ebb76305b58e7e9c2
+        value: 0b3d137e0309b92d43f82b13a24deae2
       BOT_TOKEN:
-        sync: false
+        sync: 8561351372:AAHMOO7tFeWxkDKeDlgtJuEups5F9s7GsmE
       MONGO_DB_URI: 
-        value: mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION
+        value: mongodb+srv://matto_laado:@MonkeyFOrever567890@cluster0.q5dcvoq.mongodb.net/?appName=Cluster0
       OWNER_ID:
-        value: 7574330905
+        value: -1003809861696
       OWNER_USERNAME:
-        value: Matto_Owner
+        value: boobubots
       BOT_USERNAME:
         value: LabubuMusicBot
       UPSTREAM_REPO:
-        value: https://github.com/NoxxOP/LabubuMusic
+        value: https://github.com/Matto726/LabubuMusic
       LOG_GROUP_ID:
         value: -1002321189618
       SUPPORT_GROUP:
