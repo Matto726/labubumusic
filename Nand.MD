@@ -236,7 +236,7 @@ Example : `screen -r 108108`
 ## ☁️ Heroku Deployment
 
 <div align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Matto726/LabubuMusic/">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080" width="250px" alt="Deploy to Heroku">
   </a>
 </div>
